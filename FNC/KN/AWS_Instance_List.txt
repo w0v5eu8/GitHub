@@ -1,0 +1,16 @@
+◾S3 : 
+    kmk-practice
+
+◾Lambda :
+   - kmk_EC2AutoStop
+   - kmk_EC2AutoStart
+
+◾EC2 :
+   - kmk_crawling
+
+◾VPC :
+   - vpc-05ec93f518badb86b   
+
+◾EventBridge :
+   - kmk_AutoEC2Stop
+   - kmk_EC2AutoStart
